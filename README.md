@@ -1,5 +1,5 @@
 # Cat Photo App
-Cat Photo App is a learning project that I did to learn the basics of HTML and CSS.
+Cat Photo App is a learning project that I did to learn the basics of HTML.
 
 ## Installation
 
